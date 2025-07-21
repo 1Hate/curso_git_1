@@ -3,3 +3,6 @@ atualização via proprio git hub
 puxando via git pull
 
 testando Git Log
+B
+C
+D
